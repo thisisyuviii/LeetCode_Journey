@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0014-longest-common-prefix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -31,9 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0014-longest-common-prefix) |
 | [1143-longest-common-subsequence](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/1143-longest-common-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
