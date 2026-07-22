@@ -1,6 +1,8 @@
 class Solution:
+    #Using Hash Map 
+    #TC O(n)
     def firstUniqChar(self, s: str) -> int:
-        freq={}
+        freq={} 
 
         for ch in s:
             if ch in freq:
