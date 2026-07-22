@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0014-longest-common-prefix) |
+| [0387-first-unique-character-in-a-string](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [1143-longest-common-subsequence](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -42,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
