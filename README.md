@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0014-longest-common-prefix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0409-longest-palindrome) |
