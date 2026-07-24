@@ -1,5 +1,4 @@
-from collections import Counter
-
+#Time Complexity = O(n)
 class Solution:
     def longestPalindrome(self, s: str) -> int:
         freq = Counter(s)
