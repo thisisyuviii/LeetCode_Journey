@@ -1,6 +1,9 @@
 # The isBadVersion API is already defined for you.
 # def isBadVersion(version: int) -> bool:
 
+#Time complexity: (O(\log n))
+#Space complexity: (O(1))
+
 class Solution:
     def firstBadVersion(self, n: int) -> int:
         left=1
