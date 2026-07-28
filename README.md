@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0128-longest-consecutive-sequence) |
+| [0704-binary-search](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -83,4 +84,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
