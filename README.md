@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0128-longest-consecutive-sequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
