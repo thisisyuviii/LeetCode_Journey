@@ -1,4 +1,4 @@
-#Time Compleexity : O(n)
+#Time Complexity : O(n)
 class Solution:
     def findMaxAverage(self, nums: List[int], k: int) -> float:
         max_sum=window_sum=sum(nums[:k])
