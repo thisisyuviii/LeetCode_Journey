@@ -11,6 +11,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0162-find-peak-element) |
+| [0643-maximum-average-subarray-i](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -101,4 +102,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
