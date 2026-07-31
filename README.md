@@ -106,4 +106,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0643-maximum-average-subarray-i) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
