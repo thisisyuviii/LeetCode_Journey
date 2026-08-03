@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0162-find-peak-element) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0202-happy-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -37,6 +39,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0075-sort-colors) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
