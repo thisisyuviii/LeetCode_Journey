@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -60,6 +61,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0053-maximum-subarray) |
 | [1143-longest-common-subsequence](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
@@ -130,5 +132,6 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
