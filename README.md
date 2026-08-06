@@ -15,6 +15,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0169-majority-element) |
+| [0518-coin-change-ii](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0053-maximum-subarray) |
+| [0518-coin-change-ii](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
@@ -135,4 +137,12 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0169-majority-element) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
