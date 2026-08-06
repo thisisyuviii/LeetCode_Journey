@@ -1,3 +1,4 @@
+#Using Memo
 class Solution:
     def change(self, amount: int, coins: List[int]) -> int:
         n=len(coins)
