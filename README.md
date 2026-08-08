@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0073-set-matrix-zeroes) |
@@ -37,6 +38,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0202-happy-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -155,5 +157,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
