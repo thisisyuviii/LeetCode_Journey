@@ -1,3 +1,6 @@
+#Time and Space Complexity
+#TC: O(n³) 
+#SC: O(1)
 class Solution:
     def fourSum(self, nums: List[int], target: int) -> List[List[int]]:
         n=len(nums)
