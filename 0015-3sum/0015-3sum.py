@@ -1,3 +1,6 @@
+#Time & Space Complexity
+#TC:O(n²)
+#SC:O(1)
 class Solution:
     def threeSum(self, nums: list[int]) -> list[list[int]]:
         ans=[]
