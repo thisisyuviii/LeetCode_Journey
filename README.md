@@ -21,6 +21,7 @@
 | [0162-find-peak-element](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0169-majority-element) |
 | [0518-coin-change-ii](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -93,6 +94,7 @@
 | [0205-isomorphic-strings](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0560-subarray-sum-equals-k) |
 ## Queue
 |  |
 | ------- |
@@ -169,4 +171,8 @@
 | [0048-rotate-image](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/thisisyuviii/LeetCode_Journey/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
