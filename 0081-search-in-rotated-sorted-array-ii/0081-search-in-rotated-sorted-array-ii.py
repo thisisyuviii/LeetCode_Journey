@@ -1,7 +1,8 @@
 class Solution:
     def search(self, nums: List[int], target: int) -> bool:
-        if target in nums:
-            return True
-        else:
-            return False
+        for i in nums:
+            if i==target:
+                return True
+        return False
+
         
